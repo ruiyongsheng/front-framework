@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[function(n,i,o){},function(n,i,o){"use strict";o.r(i),o(0);({init(){console.log("header init")}}).init()}],[[1,1]]]);

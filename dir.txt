@@ -1,0 +1,39 @@
+.
+├── config
+│   ├── htmlAfterWebpackPlugin.js
+│   ├── webpack.development.js
+│   └── webpack.production.js
+├── gulpfile.js
+├── package.json
+├── postcss.config.js
+├── src
+│   ├── nodeuii
+│   │   ├── app.js
+│   │   ├── config
+│   │   │   └── index.js
+│   │   ├── controllers
+│   │   │   ├── ControllerInit.js
+│   │   │   └── IndexController.js
+│   │   ├── middlewares
+│   │   │   └── errHandler.js
+│   │   ├── models
+│   │   │   └── IndexModel.js
+│   │   └── views
+│   │       └── index.html
+│   └── webapp
+│       ├── views
+│       │   ├── common
+│       │   │   └── layout.html
+│       │   └── index
+│       │       ├── index-index.entry.js
+│       │       └── pages
+│       │           └── index.html
+│       └── widgets
+│           └── header
+│               ├── header.html
+│               ├── header.js
+│               └── header.scss
+├── webpack.config.js
+└── yarn.lock
+
+44 directories, 72 files

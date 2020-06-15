@@ -1,0 +1,80 @@
+[2020-06-13T14:21:42.645] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-13T14:26:27.598] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-13T14:26:52.765] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-13T14:35:49.642] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-13T14:36:05.621] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-14T16:11:37.948] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-14T16:12:21.325] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-15T14:36:53.956] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-15T14:38:41.497] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-15T14:38:59.151] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-15T14:39:50.988] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-15T14:46:11.205] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-15T14:59:19.073] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-15T15:02:31.728] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-15T15:03:39.344] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }
+[2020-06-15T15:15:13.635] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Volumes/study/rys-web/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Volumes/study/rys-web/dist/views/index.html' }

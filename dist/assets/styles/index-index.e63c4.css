@@ -1,0 +1,2 @@
+:root{--headerHeight: 70px}.widgets-header .h-70{height:var(--headerHeight)}.widgets-header .header-content{line-height:var(--headerHeight);color:brown;box-shadow:0 0 10px #000;float:left}.widgets-header .header-content_nav ul li{float:left;margin-right:10px;list-style:none}.widgets-header .header-content_nav-active{text-decoration:underline}
+
